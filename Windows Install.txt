@@ -1,0 +1,50 @@
+My Fresh Windows Install:
+
+- Optimization:
+	- Powershell with Administrator
+        > "iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))"
+	    > "iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))"
+	https://www.oo-software.com/en/shutup10 - install and execute
+	https://www.youtube.com/watch?v=TlMqdSiGcOg - For Perforamnce and Gaming improvement
+
+
+- Apps/Programms for Work to install:
+	- Everything: https://www.voidtools.com/downloads/
+	- Sublime Text: https://www.sublimetext.com/download
+	- HWiNFO: https://www.hwinfo.com/download/
+	- WinRAR: https://www.win-rar.com/download.html?&L=1
+	- Voicemeter Banana: https://vb-audio.com/Voicemeeter/banana.htm
+	- Shocut: https://www.shotcut.org/download/
+	- Prusa Slicer: https://www.prusa3d.com/page/prusaslicer_424/
+    - Parsec: https://parsec.app/downloads
+    - qBittorrent: https://www.qbittorrent.org/download.php
+    - Private Internet Access: https://www.privateinternetaccess.com/download
+    - Visual Studio Code: https://code.visualstudio.com/
+    - Firefox/Firefox Nightly: https://www.mozilla.org/en-US/firefox/new/
+        > My Firefox Repo: https://github.com/Merrixx/FirefoxCSS
+
+
+- Gaming Usefull Tools / Clipping Tools:
+	- OBS Studio: https://obsproject.com/
+    - Overwolf: https://download.overwolf.com/install/Download?Channel=web_dl_btn
+        > Outplayed - install on overwolf
+        > Porofessor.gg - install on overwolf
+
+- RGB App:
+	- Razor Synaps: https://www.razer.com/synapse-3
+	- Dragon Center: https://www.msi.com/Landing/dragon-center-download
+	- CORSAIR iCUE: https://www.corsair.com/us/en/downloads
+
+- Quality of life Improvement Apps:
+    - Spotify: https://www.spotify.com/at/download/windows/
+        > Spicetify-cli: https://github.com/spicetify/spicetify-cli
+    - chocolatey: https://chocolatey.org/install#individual
+        > Putty - install with putty
+    - Discord: https://discord.com/download
+    - Matrix: https://matrix.org/
+    - Steam: https://help.steampowered.com/de/redirects/kb_article.php
+        > Wallpaper Engine
+
+- Windows Store Apps:
+	- Ear Trumpet
+	- Screen ColorPicker
