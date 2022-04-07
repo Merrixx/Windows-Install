@@ -44,6 +44,7 @@ My Fresh Windows Install:
     - Matrix: https://matrix.org/
     - Steam: https://help.steampowered.com/de/redirects/kb_article.php
         > Wallpaper Engine
+    - TaskbarX: https://github.com/ChrisAnd1998/TaskbarX
 
 - Windows Store Apps:
 	- Ear Trumpet
